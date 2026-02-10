@@ -1,0 +1,2 @@
+pyyaml
+apache-airflow-providers-amazon
